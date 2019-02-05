@@ -1,0 +1,3 @@
+# NEWS
+
+* First public release
